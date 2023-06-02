@@ -1,6 +1,6 @@
-form {
-  margin: auto auto;
-  /* width: 250px; */
+.form-center {
+  width: 400px;
+  margin: 0 auto;
 }
 input {
   border: 2px solid red;
